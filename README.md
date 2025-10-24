@@ -58,6 +58,10 @@ Tres gráficos tipo dona comparan la proporción de proyectos en planeación, ej
 
  *Insight:* Los proyectos finalizados representan en promedio **solo el 5%** del total.
 
+ <p align="center">
+  <img src="graficos/distribucion_pnd.png" width="85%" alt="Distribución de proyectos por Plan Nacional de Desarrollo">
+</p>
+
 ---
 
 ###  **Relación inversión – beneficiarios – cantidad de proyectos**
